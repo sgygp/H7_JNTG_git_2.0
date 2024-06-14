@@ -1,0 +1,5 @@
+git log
+git status
+git add .
+git commit -m "หตร๗"
+git push origin main
